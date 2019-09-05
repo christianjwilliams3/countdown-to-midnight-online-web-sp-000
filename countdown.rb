@@ -2,4 +2,4 @@
 
 def countdown(seconds)
  while seconds > 0 
- puts "#{SECONDS! SECOND(S)
+ puts "#{SECONDS! SECOND(S)!
