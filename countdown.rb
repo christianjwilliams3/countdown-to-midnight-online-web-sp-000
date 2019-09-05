@@ -2,5 +2,5 @@
 
 def countdown(seconds)
  while seconds > 0 
- puts "#{SECONDS! SECOND(S)!"
- until
+  puts "#{SECONDS! SECOND(S)!"
+ seconds -=1 
